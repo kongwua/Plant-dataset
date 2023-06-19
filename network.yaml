@@ -4,7 +4,6 @@ scales: # model compound scaling constants
   # [depth, width, max_channels]
   n: [0.33, 0.25, 1024]
 
-
 backbone:
   # [from, repeats, module, args]
   - [-1, 1, Conv, [64, 3, 2]]  # 0-P1/2
