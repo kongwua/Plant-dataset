@@ -14,7 +14,7 @@
 ## Citation
 #### If you find this work or code useful for your research, please cite this, Thank you!🤗
 ~~~
-@article{ye2023Dataset,  
+@article{Plant Dataset,  
   title={Plant Detection and Counting: Enhancing Precision Agriculture in UAV and General Scenes},  
   author={Lu, Dunlu and Ye, Jianxiong and Wang, Yangxu and Yu, Zhenghong}, 
   year={2023}
