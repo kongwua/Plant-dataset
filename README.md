@@ -11,7 +11,8 @@
 * **IMPORTANT NOTICE :**  
     The dataset is restricted to academic purposes only.  
   
-# Citation
+## Citation
+#### If you find this work or code useful for your research, please cite this, Thank you!🤗
 ~~~
 @article{ye2023Dataset,  
   title={Plant Detection and Counting: Enhancing Precision Agriculture in UAV and General Scenes},  
