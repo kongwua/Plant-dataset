@@ -3,6 +3,9 @@
 <img src="https://github.com/Ye-Sk/Plant-dataset/blob/master/img.jpg"/>   
 </div> 
 
+**The resources in this repository are implemented in this paper：**  
+[___Plant Detection and Counting: Enhancing Precision Agriculture in UAV and General Scenes___](https://ieeexplore.ieee.org/document/10287390)
+
 ### Cotton Boll Detection Augmented
 ──────Download the CBDA dataset from: [Google Drive](https://drive.google.com/file/d/15GxlgoSCJau292OYaeHuvHpRICn7L3GN/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1HBtnzvdReh5dfJR_kI-lpw?pwd=plat)
 
@@ -14,9 +17,12 @@
 ## Citation
 #### If you find this work or code useful for your research, please cite this, Thank you!🤗
 ~~~
-@article{Plant Dataset,  
-  title={Plant Detection and Counting: Enhancing Precision Agriculture in UAV and General Scenes},  
-  author={Lu, Dunlu and Ye, Jianxiong and Wang, Yangxu and Yu, Zhenghong}, 
-  year={2023}
-}
+@ARTICLE{10287390,
+  author={Lu, Dunlu and Ye, Jianxiong and Wang, Yangxu and Yu, Zhenghong},
+  journal={IEEE Access}, 
+  title={Plant Detection and Counting: Enhancing Precision Agriculture in UAV and General Scenes}, 
+  year={2023},
+  volume={11},
+  pages={116196-116205},
+  doi={10.1109/ACCESS.2023.3325747}}
 ~~~
