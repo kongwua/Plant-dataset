@@ -28,7 +28,7 @@
 }
 ~~~
 ~~~
-@article{YE20231004,  
+@ARTICLE{YE20231004,  
   title={WheatLFANet: In-field detection and counting of wheat heads with high-real-time global regression network},  
   author={Ye, Jianxiong and Yu, Zhenghong and Wang, Yangxu and Lu, Dunlu and Zhou, Huabing},  
   journal={Plant Methods},  
