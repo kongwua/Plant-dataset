@@ -15,7 +15,7 @@
     The dataset is restricted to academic purposes only.  
   
 ## Citation
-#### If you find this work or code useful for your research, please cite this, Thank you!🤗
+#### If you find this work or code useful for your research, please cite those, Thank you!🤗
 ~~~
 @ARTICLE{10287390,
   author={Lu, Dunlu and Ye, Jianxiong and Wang, Yangxu and Yu, Zhenghong},
@@ -25,5 +25,16 @@
   volume={11},
   pages={116196-116205},
   doi={10.1109/ACCESS.2023.3325747}
+}
+~~~
+~~~
+@article{YE20231004,  
+  title={WheatLFANet: In-field detection and counting of wheat heads with high-real-time global regression network},  
+  author={Ye, Jianxiong and Yu, Zhenghong and Wang, Yangxu and Lu, Dunlu and Zhou, Huabing},  
+  journal={Plant Methods},  
+  volume={19},  
+  number={103},  
+  year={2023},  
+  doi={10.1186/s13007-023-01079-x}  
 }
 ~~~
