@@ -1,0 +1,6 @@
+#path: ../Plant-dataset/URC
+path: /kaggle/input/item3/Plant-dataset/URC
+train: images/train
+val: images/val
+nc: 1  # 类别数量
+names: ['0']
